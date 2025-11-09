@@ -210,7 +210,16 @@ dtype: int64
  'jute' 'coffee']
 Total de culturas únicas: 22
 ```
-<a href= "[https://www.fiap.com.br/](https://github.com/DeepThinker-s/Fase3-Cap10-A_Primeira_Tecnica_de_aprendizado_de_maquian/)"><img src="assets/image.png" border="0" width=40% height=40%></a>
+<a href= "[https://www.fiap.com.br/](https://github.com/DeepThinker-s/Fase3-Cap10-A_Primeira_Tecnica_de_aprendizado_de_maquian/)"><img src="assets/image.png" border="0" width=90% height=90%></a>
+<a href= "[https://www.fiap.com.br/](https://github.com/DeepThinker-s/Fase3-Cap10-A_Primeira_Tecnica_de_aprendizado_de_maquian/)"><img src="assets/image1.png" border="0" width=90% height=90%></a>
+<a href= "[https://www.fiap.com.br/](https://github.com/DeepThinker-s/Fase3-Cap10-A_Primeira_Tecnica_de_aprendizado_de_maquian/)"><img src="assets/image2.png" border="0" width=90% height=90%></a>
+<a href= "[https://www.fiap.com.br/](https://github.com/DeepThinker-s/Fase3-Cap10-A_Primeira_Tecnica_de_aprendizado_de_maquian/)"><img src="assets/image3.png" border="0" width=90% height=90%></a>
+<a href= "[https://www.fiap.com.br/](https://github.com/DeepThinker-s/Fase3-Cap10-A_Primeira_Tecnica_de_aprendizado_de_maquian/)"><img src="assets/image4.png" border="0" width=90% height=90%></a>
+<a href= "[https://www.fiap.com.br/](https://github.com/DeepThinker-s/Fase3-Cap10-A_Primeira_Tecnica_de_aprendizado_de_maquian/)"><img src="assets/image5.png" border="0" width=90% height=90%></a>
+<a href= "[https://www.fiap.com.br/](https://github.com/DeepThinker-s/Fase3-Cap10-A_Primeira_Tecnica_de_aprendizado_de_maquian/)"><img src="assets/image6.png" border="0" width=90% height=90%></a>
+<a href= "[https://www.fiap.com.br/](https://github.com/DeepThinker-s/Fase3-Cap10-A_Primeira_Tecnica_de_aprendizado_de_maquian/)"><img src="assets/image7.png" border="0" width=90% height=90%></a>
+
+
 ```bash
 
 4. Análise Descritiva e Visualização
