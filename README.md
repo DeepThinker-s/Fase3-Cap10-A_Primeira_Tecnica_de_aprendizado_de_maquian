@@ -209,6 +209,9 @@ dtype: int64
  'watermelon' 'muskmelon' 'apple' 'orange' 'papaya' 'coconut' 'cotton'
  'jute' 'coffee']
 Total de culturas únicas: 22
+```
+<a href= "[https://www.fiap.com.br/](https://github.com/DeepThinker-s/Fase3-Cap10-A_Primeira_Tecnica_de_aprendizado_de_maquian/)"><img src="assets/image.png" border="0" width=40% height=40%></a>
+```bash
 
 4. Análise Descritiva e Visualização
 Nesta seção, aprofundaremos a análise descritiva do dataset, utilizando visualizações para narrar os principais achados.
