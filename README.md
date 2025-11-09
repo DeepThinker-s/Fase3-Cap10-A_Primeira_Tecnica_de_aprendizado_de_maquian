@@ -211,13 +211,13 @@ dtype: int64
 Total de culturas únicas: 22
 ```
 <a href= "[https://www.fiap.com.br/](https://github.com/DeepThinker-s/Fase3-Cap10-A_Primeira_Tecnica_de_aprendizado_de_maquian/)"><img src="assets/image.png" border="0" width=90% height=90%></a>
-<a href= "[https://www.fiap.com.br/](https://github.com/DeepThinker-s/Fase3-Cap10-A_Primeira_Tecnica_de_aprendizado_de_maquian/)"><img src="assets/image1.png" border="0" width=90% height=90%></a>
-<a href= "[https://www.fiap.com.br/](https://github.com/DeepThinker-s/Fase3-Cap10-A_Primeira_Tecnica_de_aprendizado_de_maquian/)"><img src="assets/image2.png" border="0" width=90% height=90%></a>
-<a href= "[https://www.fiap.com.br/](https://github.com/DeepThinker-s/Fase3-Cap10-A_Primeira_Tecnica_de_aprendizado_de_maquian/)"><img src="assets/image3.png" border="0" width=90% height=90%></a>
-<a href= "[https://www.fiap.com.br/](https://github.com/DeepThinker-s/Fase3-Cap10-A_Primeira_Tecnica_de_aprendizado_de_maquian/)"><img src="assets/image4.png" border="0" width=90% height=90%></a>
-<a href= "[https://www.fiap.com.br/](https://github.com/DeepThinker-s/Fase3-Cap10-A_Primeira_Tecnica_de_aprendizado_de_maquian/)"><img src="assets/image5.png" border="0" width=90% height=90%></a>
-<a href= "[https://www.fiap.com.br/](https://github.com/DeepThinker-s/Fase3-Cap10-A_Primeira_Tecnica_de_aprendizado_de_maquian/)"><img src="assets/image6.png" border="0" width=90% height=90%></a>
-<a href= "[https://www.fiap.com.br/](https://github.com/DeepThinker-s/Fase3-Cap10-A_Primeira_Tecnica_de_aprendizado_de_maquian/)"><img src="assets/image7.png" border="0" width=90% height=90%></a>
+<a href= "[https://www.fiap.com.br/](https://github.com/DeepThinker-s/Fase3-Cap10-A_Primeira_Tecnica_de_aprendizado_de_maquian/)"><img src="assets/image-1.png" border="0" width=90% height=90%></a>
+<a href= "[https://www.fiap.com.br/](https://github.com/DeepThinker-s/Fase3-Cap10-A_Primeira_Tecnica_de_aprendizado_de_maquian/)"><img src="assets/image-2.png" border="0" width=90% height=90%></a>
+<a href= "[https://www.fiap.com.br/](https://github.com/DeepThinker-s/Fase3-Cap10-A_Primeira_Tecnica_de_aprendizado_de_maquian/)"><img src="assets/image-3.png" border="0" width=90% height=90%></a>
+<a href= "[https://www.fiap.com.br/](https://github.com/DeepThinker-s/Fase3-Cap10-A_Primeira_Tecnica_de_aprendizado_de_maquian/)"><img src="assets/image-4.png" border="0" width=90% height=90%></a>
+<a href= "[https://www.fiap.com.br/](https://github.com/DeepThinker-s/Fase3-Cap10-A_Primeira_Tecnica_de_aprendizado_de_maquian/)"><img src="assets/image-5.png" border="0" width=90% height=90%></a>
+<a href= "[https://www.fiap.com.br/](https://github.com/DeepThinker-s/Fase3-Cap10-A_Primeira_Tecnica_de_aprendizado_de_maquian/)"><img src="assets/image-6.png" border="0" width=90% height=90%></a>
+<a href= "[https://www.fiap.com.br/](https://github.com/DeepThinker-s/Fase3-Cap10-A_Primeira_Tecnica_de_aprendizado_de_maquian/)"><img src="assets/image-7.png" border="0" width=90% height=90%></a>
 
 
 ```bash
@@ -310,6 +310,17 @@ Arroz e Mamão prosperam em temperaturas mais altas e com muita chuva.
 Grão-de-bico prefere temperaturas mais baixas e pluviosidade moderada.
 Café e Milho se adaptam a uma gama mais ampla de temperaturas e pluviosidade, mas com preferências específicas.
 Esses achados são cruciais para entender as necessidades de cada cultura e para a construção de modelos preditivos eficazes.
+
+```
+<a href= "[https://www.fiap.com.br/](https://github.com/DeepThinker-s/Fase3-Cap10-A_Primeira_Tecnica_de_aprendizado_de_maquian/)"><img src="assets/image-8.png" border="0" width=90% height=90%></a>
+<a href= "[https://www.fiap.com.br/](https://github.com/DeepThinker-s/Fase3-Cap10-A_Primeira_Tecnica_de_aprendizado_de_maquian/)"><img src="assets/image-9.png" border="0" width=90% height=90%></a>
+<a href= "[https://www.fiap.com.br/](https://github.com/DeepThinker-s/Fase3-Cap10-A_Primeira_Tecnica_de_aprendizado_de_maquian/)"><img src="assets/image-10.png" border="0" width=90% height=90%></a>
+<a href= "[https://www.fiap.com.br/](https://github.com/DeepThinker-s/Fase3-Cap10-A_Primeira_Tecnica_de_aprendizado_de_maquian/)"><img src="assets/image-11.png" border="0" width=90% height=90%></a>
+<a href= "[https://www.fiap.com.br/](https://github.com/DeepThinker-s/Fase3-Cap10-A_Primeira_Tecnica_de_aprendizado_de_maquian/)"><img src="assets/image-12.png" border="0" width=90% height=90%></a>
+<a href= "[https://www.fiap.com.br/](https://github.com/DeepThinker-s/Fase3-Cap10-A_Primeira_Tecnica_de_aprendizado_de_maquian/)"><img src="assets/image-13.png" border="0" width=90% height=90%></a>
+<a href= "[https://www.fiap.com.br/](https://github.com/DeepThinker-s/Fase3-Cap10-A_Primeira_Tecnica_de_aprendizado_de_maquian/)"><img src="assets/image-14.png" border="0" width=90% height=90%></a>
+<a href= "[https://www.fiap.com.br/](https://github.com/DeepThinker-s/Fase3-Cap10-A_Primeira_Tecnica_de_aprendizado_de_maquian/)"><img src="assets/image-15.png" border="0" width=90% height=90%></a>
+```bash
 
 
 5. Perfil Ideal de Solo/Clima e Comparação de Culturas
@@ -442,6 +453,9 @@ rice       79.89  47.58  39.87    23.689332  82.272822  6.425471  236.181114
 chickpea   40.09  67.79  79.92    18.872847  16.860439  7.336957   80.058977
 coffee    101.20  28.74  29.94    25.540477  58.869846  6.790308  158.066295
 
+```
+<a href= "[https://www.fiap.com.br/](https://github.com/DeepThinker-s/Fase3-Cap10-A_Primeira_Tecnica_de_aprendizado_de_maquian/)"><img src="assets/image-16.png" border="0" width=90% height=90%></a>
+```bash
 
 --- Análise Detalhada da Comparação ---
 
@@ -662,6 +676,11 @@ Relatório de Classificação:
    macro avg       1.00      1.00      1.00       440
 weighted avg       1.00      1.00      1.00       440
 
+```
+
+<a href= "[https://www.fiap.com.br/](https://github.com/DeepThinker-s/Fase3-Cap10-A_Primeira_Tecnica_de_aprendizado_de_maquian/)"><img src="assets/image-17.png" border="0" width=90% height=90%></a>
+```bash
+
 --- Treinando e Avaliando: Support Vector Machine (SVC) ---
 Acurácia: 0.9841
 Precisão: 0.9856
@@ -682,9 +701,8 @@ Support Vector Machine (SVC)  0.984091   0.985610  0.984091  0.984038
 K-Nearest Neighbors (KNN)     0.979545   0.980356  0.979545  0.979283
 Regressão Logística           0.972727   0.974022  0.972727  0.972464
 
-![alt text](image-18.png)
-
 ```
+<a href= "[https://www.fiap.com.br/](https://github.com/DeepThinker-s/Fase3-Cap10-A_Primeira_Tecnica_de_aprendizado_de_maquian/)"><img src="assets/image-18.png" border="0" width=90% height=90%></a>
 
 ### 7. Conclusões
 Este projeto demonstrou a aplicação de técnicas de análise de dados e Machine Learning para resolver o problema de recomendação de culturas agrícolas.
